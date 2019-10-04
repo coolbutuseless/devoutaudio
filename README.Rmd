@@ -87,6 +87,7 @@ You can install `devoutaudio` from [GitHub](https://github.com/coolbutuseless/de
 
 ``` r
 # install.packages("devtools")
+devtools::install_github("coolbutuseless/devout")
 devtools::install_github("coolbutuseless/devoutaudio")
 ```
 
