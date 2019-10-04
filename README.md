@@ -67,7 +67,7 @@ plot(1:10)
 dev.off()
 ```
 
-### [Click to play audio rendering](https://raw.githubusercontent.com/coolbutuseless/devoutaudio/master/man/figures/mp3/audio1.mp3)
+### [Click to play audio rendering](https://github.com/coolbutuseless/devoutaudio/blob/master/man/figures/mp3/audio1.mp3?raw=true)
 
 <img src="man/figures/README-graph1-1.png" width="70%" />
 
@@ -83,6 +83,6 @@ ggplot(plot_df) +
 dev.off()
 ```
 
-### [Click to play audio rendering](https://raw.githubusercontent.com/coolbutuseless/devoutaudio/master/man/figures/mp3/audio2.mp3)
+### [Click to play audio rendering](https://github.com/coolbutuseless/devoutaudio/blob/master/man/figures/mp3/audio2.mp3?raw=true)
 
 <img src="man/figures/README-graph2-1.png" width="70%" />
