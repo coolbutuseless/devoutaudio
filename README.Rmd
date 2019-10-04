@@ -120,7 +120,7 @@ dev.off()
 ```
 
 
-### [Click to play audio rendering](https://github.com/coolbutuseless/devoutaudio-dev/blob/master/man/figures/mp3/audio1.mp3?raw=true)
+### [Click to play audio rendering](https://github.com/coolbutuseless/devoutaudio/blob/master/man/figures/mp3/audio1.mp3?raw=true)
 
 ```{r graph1, echo = FALSE}
 plot(1:10)
@@ -142,7 +142,7 @@ ggplot(plot_df) +
 dev.off()
 ```
 
-### [Click to play audio rendering](https://github.com/coolbutuseless/devoutaudio-dev/blob/master/man/figures/mp3/audio2.mp3?raw=true)
+### [Click to play audio rendering](https://github.com/coolbutuseless/devoutaudio/blob/master/man/figures/mp3/audio2.mp3?raw=true)
 
 ```{r graph2, echo = FALSE}
 plot_df <- mtcars %>% arrange(mpg)
