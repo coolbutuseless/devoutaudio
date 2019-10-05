@@ -99,6 +99,17 @@ devtools::install_github("coolbutuseless/devoutaudio")
 * Audio is only played on-the-fly and there is no facility to save yet.
 
 
+## Ideas
+
+* currently just using `audio` package to generate some beeps, but there are 
+  other more complex sound synthesis packages in R e.g. `seewave`, `soundgen`, 
+  `tuneR`, `phonTools`
+* Horizontal lines are sounds that move across the stereo landscape
+* Vertical lines are a note of rising pitch
+* Map line thickness to volume
+* Text rendering = text-to-speech. Or generated phonemes with something like {soundgen}
+
+
 # Examples
 
 In the following examples:
