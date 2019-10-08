@@ -2,7 +2,7 @@
 % Please edit documentation in R/audio-callback.R
 \name{audio_callback}
 \alias{audio_callback}
-\title{ASCII callback for the rdevice}
+\title{Audio callback for the rdevice}
 \usage{
 audio_callback(device_call, args, state)
 }
@@ -14,5 +14,5 @@ audio_callback(device_call, args, state)
 \item{state}{list of rdata, dd and gc. Some or all of which may be NULL}
 }
 \description{
-ASCII callback for the rdevice
+Audio callback for the rdevice
 }

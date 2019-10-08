@@ -38,11 +38,13 @@ audio_circle <- function(args, state) {
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#' ASCII callback for the rdevice
+#' Audio callback for the rdevice
 #'
 #' @param device_call name of device function call
 #' @param args arguments to device function call
 #' @param state list of rdata, dd and gc. Some or all of which may be NULL
+#'
+#' @export
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 audio_callback <- function(device_call, args, state) {
 

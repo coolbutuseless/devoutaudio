@@ -16,3 +16,4 @@
 audio <- function(...) {
   devout::rdevice('audio_callback', ...)
 }
+
